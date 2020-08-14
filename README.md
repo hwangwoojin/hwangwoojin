@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 
 <!-- github-readme-stats -->
 [![Junho's github stats](https://github-readme-stats.vercel.app/api?username=hwangwoojin)](https://github.com/hwangwoojin/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwangwoojin)](https://github.com/anuraghazra/github-readme-stats)

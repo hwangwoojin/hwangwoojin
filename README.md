@@ -13,7 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- github-readme-stats -->
-[![Junho's github stats](https://github-readme-stats.vercel.app/api?username=hwangwoojin)](https://github.com/hwangwoojin/github-readme-stats)
-
 ### Hi there 👋

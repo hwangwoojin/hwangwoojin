@@ -2,8 +2,11 @@
 **hwangwoojin/hwangwoojin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on Rails.
-- 🌱 I’m currently learning React
+<!--
+- 🔭 I’m currently working on ...
+-->
+
+- 🌱 I’m currently learning CSS
 
 <!--
 - 👯 I’m looking to collaborate on ...

@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on ...
 -->
 
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently learning Java
 
 <!--
 - 👯 I’m looking to collaborate on ...

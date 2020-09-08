@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning ...
 
-> [Java](https://hyperskill.org)
+> Java with *[JetBrains Academy](https://www.jetbrains.com/academy/)*
 
-> [Algorithm](https://github.com/ndb796/python-for-coding-test)
+> Algorithm with *[python-for-coding-test](https://github.com/ndb796/python-for-coding-test)*
 
 <!--
 - 👯 I’m looking to collaborate on ...

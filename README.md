@@ -22,7 +22,7 @@
 - 
 - ✅ [BOJ 단계별로 풀어보기 재귀](https://www.acmicpc.net/step/19)
 - 
-- ❌ [BOJ 단계별로 풀어보기 백트래킹](https://www.acmicpc.net/step/34)
+- ✅ [BOJ 단계별로 풀어보기 백트래킹](https://www.acmicpc.net/step/34)
 - 
 - ❌ [BOJ 단계별로 풀어보기 동적계획법](https://www.acmicpc.net/step/16)
 - 

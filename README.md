@@ -16,7 +16,7 @@
 - 
 - ✅ [BOJ 단계별로 풀어보기 문자열](https://www.acmicpc.net/step/7)
 - 
-- ❌ [BOJ 단계별로 풀어보기 정렬](https://www.acmicpc.net/step/9)
+- ✅ [BOJ 단계별로 풀어보기 정렬](https://www.acmicpc.net/step/9)
 - 
 - ✅ [BOJ 단계별로 풀어보기 브루트포스](https://www.acmicpc.net/step/22)
 - 

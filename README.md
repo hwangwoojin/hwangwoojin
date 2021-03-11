@@ -6,10 +6,4 @@
 ✅❌
 -->
 
-심심할땐
-
-- ✅ [Codeup Python 기초 100제](https://codeup.kr/problemsetsol.php?psid=33)
-- 
-- ❌ [Codeup C언어 기초 100제](https://codeup.kr/problemsetsol.php?psid=23)
-- 
-- ❌ [solved.ac](https://solved.ac) 
+TODO List

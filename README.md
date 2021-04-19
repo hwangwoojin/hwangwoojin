@@ -1,9 +1,3 @@
-<!--
-**hwangwoojin/hwangwoojin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+# hwangwoojin
 
-<!--
-✅❌
--->
-
-TODO List
+황우진 프로필

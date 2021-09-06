@@ -1,9 +1,5 @@
-# hwangwoojin
+<!-- https://github.com/anuraghazra/github-readme-stats -->
 
-## Doing
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hwangwoojin&count_private=true)
 
-[K-Digital Training: 프로그래머스 인공지능 데브코스](https://github.com/hwangwoojin/kdt-notes)
-
-[단순 CRUD는 그만! 웹 백엔드 시스템 구현(Spring Boot)](https://programmers.co.kr/learn/courses/11694)
-
-## Done
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwangwoojin&layout=compact)

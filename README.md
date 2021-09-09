@@ -1,6 +1,6 @@
 <!-- https://github.com/progfay/shields-with-icon -->
 <!-- https://raw.githubusercontent.com/progfay/shields-with-icon/master/README.md -->
-
+<!--
 멋쟁이 사자처럼 7기 (2020년)
 
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
@@ -30,3 +30,4 @@
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
 ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
 ![Express](https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label=)
+-->

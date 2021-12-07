@@ -1,3 +1,1 @@
-[Hello, 황우진! 👋](https://www.notion.so/Hello-4a6ae080fc32491a9aeddac5dae20c49)
-
-안녕하세요, 함께 개발하는 것을 즐기는 황우진입니다.
+[About me](https://tiny-bucket-2fe.notion.site/9979250ab8e348598fb6a845306c75e9)
